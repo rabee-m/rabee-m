@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rabee-m
 - 👀 I’m interested in Machine Learning, Data Visualization, and Software Development.
-- 🌱 I’m currently learning Machine Learning through Andrew Ng's Stanford course.
+- 🌱 I’m currently learning Machine Learning through Andrew Ng's Stanford course, and reading the book, "Hands-On Machine Learning with Scikit-learn, Keras & TensorFlow".
 - 💞️ I’m looking to collaborate on anything finance or ML related.
 - 📫 How to reach me muhammad.rabee02@gmail.com
 
