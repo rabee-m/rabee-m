@@ -3,7 +3,7 @@
 
 Hey my name's Muhammad Rabee! I'm currently pursuing a bachelor's degree in Data Science from the [University of Waterloo](https://uwaterloo.ca/data-science/). I love using tech to find creative solutions to problms, In particular I am extremley passionate about full-stack devlopment, and machine learning. Feel free to reach out and connect with me throught the following channels:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrabee/)](https://www.linkedin.com/in/mrabee/)
+[![Linkedin Badge](https://img.shields.io/badge/-mrabee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrabee/)](https://www.linkedin.com/in/mrabee/)
 [![Gmail Badge](https://img.shields.io/badge/-muhammad.rabee02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.rabee02@gmail.com)](mailto:muhammad.rabee02@gmail.com)
 
 ## ⚡ Technologies
