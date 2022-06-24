@@ -1,5 +1,5 @@
 ## <p align='center'> <img src = "./name-logo.png"> </p>
-<p align='center'> <img src = "https://media2.giphy.com/media/7zJgqvSbjBH2M/giphy.gif" </p>
+<p align='center'> <img src = "./animated-waves.gif" </p>
 
 Hey my name's Muhammad Rabee! I'm currently pursuing a bachelor's degree in Data Science from the [University of Waterloo](https://uwaterloo.ca/data-science/). I love using tech to find creative solutions to problms, In particular I am extremley passionate about full-stack devlopment, and machine learning. Feel free to reach out and connect with me throught the following channels:
 
