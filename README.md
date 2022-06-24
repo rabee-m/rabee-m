@@ -1,3 +1,4 @@
+## <img src = "./name-logo.png" width="30px">
 - 👋 Hi, I’m @rabee-m
 - 👀 I’m interested in the areas of Machine Learning, and Software Development.
 - 🌱 I’m currently working through The Odin Project to enhance my web development skillset. 
