@@ -7,10 +7,6 @@ Hey my name's Muhammad Rabee! I'm currently pursuing a bachelor's degree in Data
 [![Gmail Badge](https://img.shields.io/badge/-muhammad.rabee02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.rabee02@gmail.com)](mailto:muhammad.rabee02@gmail.com)
 
 ## ⚡ Technologies
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
