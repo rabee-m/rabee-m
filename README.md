@@ -1,7 +1,7 @@
 ## <p align='center'> <img src = "./name-logo.png"> </p>
 ## Fancy seeing you here! <p align ='center'> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </p>
 
-I'm Muhammad Rabee, currently pursuing my bachelor's degree in Data Science from the [University of Waterloo](https://uwaterloo.ca/data-science/). I love using tech to find creative solutions to problms, In particular I am extremley passionate about full-stack devlopment, and machine learning. Feel free to reach out and connect with me throught the following channels:
+Hey my name's Muhammad Rabee! I'm currently pursuing a bachelor's degree in Data Science from the [University of Waterloo](https://uwaterloo.ca/data-science/). I love using tech to find creative solutions to problms, In particular I am extremley passionate about full-stack devlopment, and machine learning. Feel free to reach out and connect with me throught the following channels:
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrabee/)](https://www.linkedin.com/in/mrabee/)
 [![Gmail Badge](https://img.shields.io/badge/-muhammad.rabee02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.rabee02@gmail.com)](mailto:muhammad.rabee02@gmail.com)
@@ -28,8 +28,8 @@ I'm Muhammad Rabee, currently pursuing my bachelor's degree in Data Science from
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rabee-m&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabee-m&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
