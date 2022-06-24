@@ -1,5 +1,5 @@
 ## <p align='center'> <img src = "./name-logo.png"> </p>
-## Fancy seeing you here! <p align ='center'> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="500px" width="30px"> </p>
+## Fancy seeing you here! <p align ='center'> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="100px" width="30px"> </p>
 
 Hey my name's Muhammad Rabee! I'm currently pursuing a bachelor's degree in Data Science from the [University of Waterloo](https://uwaterloo.ca/data-science/). I love using tech to find creative solutions to problms, In particular I am extremley passionate about full-stack devlopment, and machine learning. Feel free to reach out and connect with me throught the following channels:
 
