@@ -31,6 +31,8 @@ Hey my name's Muhammad! I'm currently pursuing a bachelor's degree in Data Scien
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rabee-m&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabee-m&hide=TeX&layout=compact)
 
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mrabee" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/mrabee?trk=profile-badge">Muhammad Rabee</a></div>
 <!---
 rabee-m/rabee-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
