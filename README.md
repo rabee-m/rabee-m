@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate data science student interested in software, ML, and web development</h3>
 
-- 🔭 I’m currently working on learning **Full-Stack JavaScript Web Development**
+- 🔭 I’m currently learning **Full-Stack JavaScript Web Development**
 
 - 💬 Ask me about: **Software Development, ML, and Data Science**
 
