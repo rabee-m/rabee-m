@@ -1,4 +1,3 @@
-## <p align='center'> <img src = "./name-logo.png"> </p>
 <p align='center'> <img src = "./animated-waves.gif" width="200px" height="200px"> </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
