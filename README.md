@@ -6,17 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabee-m&label=Profile%20views&color=0e75b6&style=flat" alt="rabee-m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabee-m" alt="rabee-m" /></a> </p>
+- 🔭 I’m currently working on learning **Full-Stack JavaScript Web Development**
 
-- 🔭 I’m currently working on **Full-Stack JavaScript Web Development**
+- 💬 Ask me about: **Software Development, ML, and Data Science**
 
-- 💬 Ask me about **Software Development, ML, and Data Science**
+- 📫 How to reach me: **muhammad.rabee02@gmail.com**
 
-- 📫 How to reach me **muhammad.rabee02@gmail.com**
+- 👨‍💻 Visit my portfolio website [mrabee.com](mrabee.com)
 
-- 📄 Know about my experiences [mrabee.com](mrabee.com)
-
-- ⚡ Fun fact **I love weightlifting, listening to old-school rap music, and playing RPG video games/**
+- ⚡ Interests: **Weightlifting, Old-School Rap Music, RPG/FPS Video Games/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
