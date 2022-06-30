@@ -11,9 +11,9 @@
 
 - 📫 How to reach me: **muhammad.rabee02@gmail.com**
 
-- 👨‍💻 Visit my portfolio website [mrabee.com](mrabee.com)
+- 👨‍💻 Visit my portfolio website: [mrabee.com](mrabee.com)
 
-- ⚡ Interests: **Weightlifting, Old-School Rap Music, RPG/FPS Video Games **
+- ⚡ Interests: <b>Weightlifting, Old-School Rap Music, RPG/FPS Video Games </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
