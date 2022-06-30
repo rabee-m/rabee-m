@@ -14,7 +14,7 @@
 
 - 👨‍💻 Visit my portfolio website [mrabee.com](mrabee.com)
 
-- ⚡ Interests: **Weightlifting, Old-School Rap Music, RPG/FPS Video Games /**
+- ⚡ Interests: **Weightlifting, Old-School Rap Music, RPG/FPS Video Games **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
