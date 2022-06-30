@@ -1,7 +1,7 @@
 <p align='center'> <img src = "./animated-waves.gif" width="200px" height="200px"> </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A passionate data science student interested in software, ML, and web development</h3>
+<h3 align="center">A passionate computer science student interested in software, data science, and web development</h3>
 
 - 🔭 I’m currently learning **Full-Stack JavaScript Web Development**
 
