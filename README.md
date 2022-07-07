@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **muhammad.rabee02@gmail.com**
 
-- 👨‍💻 Visit my portfolio website: [mrabee.com](mrabee.com)
+- 👨‍💻 Visit my portfolio website: [https://mrabee.com/](https://mrabee.com/)
 
 - ⚡ Interests: <b>Weightlifting, Old-School Rap Music, RPG/FPS Video Games </b>
 
